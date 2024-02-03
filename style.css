@@ -1,0 +1,10 @@
+
+
+a{
+    transition: .4s;
+}
+
+a:hover{
+    color: white !important;
+}
+    
